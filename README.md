@@ -1,1 +1,1 @@
-Ejercicio ralizado del video de como aprender a usar GIT
+Ejercicio realizado del video de como aprender a usar GIT
